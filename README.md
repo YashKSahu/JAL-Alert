@@ -1,5 +1,7 @@
 # JAL-Alert
-This repo contains the code for our product JAL Alert
+This repo contains the code for our product JAL Alert.
+
+The aim is to automate and accelerate the water quality testing process by monitoring water parameters and logging the sensor parameters in real time on a database for water contamination analysis.
 
 ## Web App
 ![p0](webApp_images/auth.png)
